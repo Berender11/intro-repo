@@ -7,5 +7,6 @@
 - ⚡ Fun fact: The first computer bug was actually a real moth—discovered in 1947 by Grace Hopper and her team! 🪲
 <br>
 <br>
- [![](https://visitcount.itsvg.in/api?id=Berender11&label=Profile%20Views&color=9&icon=3&pretty=true)](https://visitcount.itsvg.in)
+ [![](https://visitcount.itsvg.in/api?id=Berender11&label=Profile%20Views&color=9&icon=3&pretty=true)](https://visitcount.itsvg.in)]
+
 
